@@ -32,7 +32,7 @@ The dataset "Hotel Bookings Work Data.xlsx" serves as the primary data source fo
 3. Dropped few columns that are required for analysis
 4. Applied Power Query transformations: removed duplicates, handled null values, Created new columns from existing.
 5. Corrected spelling errors, typos, and inconsistencies.
-6. Created new columns for insights (e.g., Total Revenue, Order Month/Year).
+6. Created new columns for insights (e.g., Room Status, Guest Types).
   
 ### Key Business Questions Answered
  1. Which Guest type has more bookings?
