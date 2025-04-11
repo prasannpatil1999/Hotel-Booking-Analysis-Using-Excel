@@ -68,8 +68,8 @@ The dataset "Hotel Bookings Work Data.xlsx" serves as the primary data source fo
 - City Hotel is the hotel type that has significantly higher booking cancellations than other hotel type
 - August month has highest bookings
 - August month has highest bookings cancellations
-- Coorrct type of Room Status was more awarded
-- Coorrct type of Room Status was more canecellations
+- Correct type of Room Status was more awarded
+- Correct type of Room Status was more canecellations
 
 ### Recommendations
 - Target marketing campaigns specifically for couples to boost bookings even further and tailor offers for this guest type.
